@@ -9,6 +9,6 @@
 - chore: 기타 변경 사항 (빌드 작업, 패키지 매니저 설정 등)
 
 <div align="center">
-TravelShoot - 당신의 완벽한 여행을 위한 AI 플랫폼 🚀
+TravelShoot - 당신의 완벽한 여행을 위한 숙소 예약 서비스 🚀
 Made with ❤️ by 사분면 Team
 </div>
