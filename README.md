@@ -91,36 +91,49 @@ Travel Shoot은 숙소 예약부터 맞춤형 여행 코스 생성까지 **원�
 
 ### 기술 스택
 
-#### Frontend
-![React](https://img.shields.io/badge/React-19.1-61DAFB?logo=react)
-![Vite](https://img.shields.io/badge/Vite-5.4.9-646CFF?logo=vite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.7-7952B3?logo=bootstrap)
 
-#### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.6-6DB33F?logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-3.5.2-6DB33F?logo=springsecurity)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-3.5.4-6DB33F)
-![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk)
+### Frontend
+![React](https://img.shields.io/badge/React-19.1-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4.9-646CFF?logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.7-7952B3?logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?logo=redis)
+### Backend
+![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.6-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-3.5.2-6DB33F?logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-3.5.4-6DB33F?logo=spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
-#### External AI
-![GPT-5](https://img.shields.io/badge/GPT--5-412991?logo=openai)
 
-#### Deploy
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
+### AI & External API
+![OpenAI GPT-5](https://img.shields.io/badge/GPT--5-412991?logo=openai&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao_Map-FFCD00?logo=kakao&logoColor=black)
+![Kakao Pay](https://img.shields.io/badge/Kakao_Pay-FFCD00?logo=kakaotalk&logoColor=black)
 
-#### Collaboration
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?logo=redis&logoColor=white)
+
+### Infrastructure
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+
+### Tools & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+
 
 ### 아키텍처 구조
 <img width="1055" height="460" alt="image" src="https://github.com/user-attachments/assets/41618d05-5004-47e3-a459-d446c6e3857e" />
